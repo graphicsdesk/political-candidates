@@ -1,19 +1,117 @@
 {
-  "headline": "Decades of Uncertainty",
-  "deck": "A visual history of the linguistics major",
-  "date": "October 16, 2019",
-  "byline": "By Seyla Phan and Jason Kao",
-  "top": {},
+  "headline": "Who are Columbia affiliates backing in 2020? Campaign donation data shows Booker in the lead.",
+  "date": "November 22, 2019",
+  "credits": "Story by <a href=\"https://www.columbiaspectator.com/contributors/Vidhima-Shetty/\">Vidhima Shetty</a>\nGraphics by <a href=\"https://www.columbiaspectator.com/contributors/Charlotte-Li\">Charlotte Li</a> and <a href=\"https://www.columbiaspectator.com/contributors/Raeedah-Wahid\">Raeedah Wahid</a>",
   "body": [
     {
       "type": "text",
-      "value": "Lead lead lead lead lead lead lead lead lead lead lead lead lead lead lead lead lead lead lead lead lead lead lead lead lead lead lead lead lead lead lead lead lead. Here’s what happened."
+      "value": "As the 2020 Democratic presidential primaries approach, Columbia affiliates—including students, professors, staff, and administrators—have demonstrated their support for candidates through campaign donations. Cory Booker (D-NJ) leads the way as the candidate with the most money raised through University-affiliated donations, according to data released by the Federal Election Commission."
+    },
+    {
+      "type": "text",
+      "value": "But while Booker may have raised the highest total amount of money in campaign donations from Columbia affiliates, he isn’t the candidate who received the highest number of donations. Rather, Bernie Sanders (D-VT) saw the most individual donations, with 275 Columbia affiliates donating overall. Elizabeth Warren (D-MA) follows closely after Sanders, with 179 affiliate donations, and Booker comes in third with 43."
     },
     {
       "type": "graphic",
       "value": {
-        "asset": "linguistics.html"
+        "asset": "graphic-3-1.html"
       }
+    },
+    {
+      "type": "text",
+      "value": "According to FEC data as of Sept. 30, 2019, Columbia affiliates have raised a total of $20,879.91 for Booker—the second-highest amount raised by a university for his campaign, tailing right behind Stanford University, which raised $37,981.67. Booker, a New Jersey native, has based his campaign on key issues such as fighting for economic and racial equality and advocating for marijuana legalization and criminal justice reform, among others."
+    },
+    {
+      "type": "graphic",
+      "value": {
+        "asset": "graphic-5.html"
+      }
+    },
+    {
+      "type": "text",
+      "value": "But as a candidate who isn’t a Columbia alumnus and doesn’t have any direct ties to the University, it may come as a surprise for many that Booker is a frontrunner in money raised through campaign donations."
+    },
+    {
+      "type": "text",
+      "value": "According to political science professor Donald P. Green, whose research focuses on voting behavior, partisanship, and campaign finance, a potential answer for Booker’s popularity among the Columbia community may arise from his relative proximity to the University and his ideological outlook."
+    },
+    {
+      "type": "text",
+      "value": "“He’s from New Jersey and many of our faculty and students in the community live in New Jersey and commute to campus. He’s also a fairly congenial person in terms of his outlook to Columbia faculty and staff,” Green said."
+    },
+    {
+      "type": "text",
+      "value": "He went on to note the discrepancy between Booker’s lead as the candidate with the highest amount of affiliate-raised campaign donations and his total number of donations."
+    },
+    {
+      "type": "text",
+      "value": "“[Booker’s] donors are obviously digging more deeply into their pockets to make donations, which is why the absolute dollar figures are a little bit misleading,” Green said."
+    },
+    {
+      "type": "text",
+      "value": "Of the 43 Columbia affiliates who donated to Booker, the most common type of affiliation was professor, senior researcher, and alumni. On the other hand, Sanders, who had nearly six times the number of donors than Booker did, largely received donations from Columbia affiliates who were teachers, academics, and reading specialists. Sanders has raised a total of $15,935.10 from Columbia affiliates as of Sept. 30, 2019."
+    },
+    {
+      "type": "graphic",
+      "value": {
+        "asset": "graphic-4.html"
+      }
+    },
+    {
+      "type": "text",
+      "value": "Emmaline Bennett, CC ’20, an organizing committee member of the Columbia-Barnard Young Democratic Socialists for America, isn’t surprised that Sanders received the most number of donations."
+    },
+    {
+      "type": "text",
+      "value": "“One of the big things about Sanders’ campaign has been appealing to individual donors who are just ordinary working-class people, who might not be able to write a $100 check, or max out their individual donations,” said Bennett. “But they can give $20 or $5—like I’ve given a bunch of small donations to the Sanders campaign because that’s how much I’ve been able to give.”"
+    },
+    {
+      "type": "graphic",
+      "value": {
+        "asset": "graphic-3-2.html"
+      }
+    },
+    {
+      "type": "text",
+      "value": "Green also highlighted how Sanders is known as a “brand name associated with left-leaning politics,” an attribute which would make him an attractive candidate to Columbians."
+    },
+    {
+      "type": "text",
+      "value": "Sanders’ campaign primarily focuses on progressive issues such as tuition-free college, Medicare for all, campaign finance reform, and a $15 minimum wage. But like Booker, Sanders doesn’t have any direct affiliations with Columbia—he graduated from the University of Chicago and served as a U.S. representative for 16 years before being elected to the U.S. Senate."
+    },
+    {
+      "type": "graphic",
+      "value": {
+        "asset": "graphic-2.html"
+      }
+    },
+    {
+      "type": "text",
+      "value": "Though Booker and Sanders currently hold forefront positions in the eyes of Columbia affiliates, Green notes that donation patterns and results are subject to change in the near future."
+    },
+    {
+      "type": "text",
+      "value": "“I would say that the thing to be on the watch for is what happens after Iowa and New Hampshire. Some of these candidates will get a bounce, and some will be booted out of contention. And the question is what happens to fundraising patterns after that,” said Green."
+    },
+    {
+      "type": "text",
+      "value": "<i>Staff writer Vidhima Shetty can be contacted at </i><a href=\"mailto:vidhima.shetty@columbiaspectator.com\"><i>vidhima.shetty@columbiaspectator.com</i></a><i>."
+    },
+    {
+      "type": "text",
+      "value": "</i>"
+    },
+    {
+      "type": "text",
+      "value": "<i>Staff graphics reporter Charlotte Li can be contacted at </i><a href=\"mailto:charlotte.li@columbiaspectator.com\"><i>charlotte.li@columbiaspectator.com</i></a><i> ."
+    },
+    {
+      "type": "text",
+      "value": "</i>"
+    },
+    {
+      "type": "text",
+      "value": "<i>Graphics deputy editor Raeedah Wahid can be contacted at </i><a href=\"mailto:raeedah.wahid@columbiaspectator.com\"><i>raeedah.wahid@columbiaspectator.com</i></a><i>. Follow Spectator on Twitter </i><a href=\"https://twitter.com/ColumbiaSpec?ref_src=twsrc%5Eappleosx%7Ctwcamp%5Esafari%7Ctwgr%5Eprofile\"><i>@ColumbiaSpec</i></a><i>.</i>"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
-  "name": "linguistics-major",
+  "name": "political-candidates",
   "version": "1.0.0",
-  "description": "A visual history of the linguistics major.",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/spec-journalism/linguistics-major.git"
+    "url": "git+https://github.com/spec-journalism/political-candidates.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/spec-journalism/linguistics-major/issues"
+    "url": "https://github.com/spec-journalism/political-candidates/issues"
   },
-  "homepage": "https://github.com/spec-journalism/linguistics-major#readme",
+  "homepage": "https://github.com/spec-journalism/political-candidates#readme",
   "devDependencies": {
     "@newswire/doc-to-archieml": "^1.0.0",
     "cssnano": "^4.1.10",
