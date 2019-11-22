@@ -30,6 +30,9 @@
             <if condition="item.value.asset === 'graphic-3-1.html'">
               <include src="graphic-3-1.html"></include>
             </if>
+            <if condition="item.value.asset === 'graphic-5.html'">
+              <include src="graphic-5.html"></include>
+            </if>
             <!--
             <if condition="item.value.asset === 'graphic-2.html'">
               <include src="graphic-2.html"></include>
@@ -39,9 +42,6 @@
             </if>
             <if condition="item.value.asset === 'graphic-4.html'">
               <include src="graphic-4.html"></include>
-            </if>
-            <if condition="item.value.asset === 'graphic-5.html'">
-              <include src="graphic-5.html"></include>
             </if>
           -->
           </div>
@@ -53,6 +53,8 @@
   <div class="spectate-dev-footer">
     <a href="{{ DOC_URL }}" target="_blank">Doc</a>
   </div>
+
+  <include src="partials/footer.html"></include>
 
   <script src="./script.js"></script>
 

@@ -15,4 +15,3 @@ clean:
 	git worktree prune
 	mkdir dist
 	git worktree add dist gh-pages
-
