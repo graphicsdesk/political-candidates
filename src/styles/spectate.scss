@@ -145,8 +145,13 @@ header {
 
 @media (max-width: 500px) {
   header .headline {
-    font-size: 46px;
+    font-size: 37px;
     margin-bottom: 7px;
+    max-width: calc(100% - 20px) !important;
+  }
+
+  header .deck {
+    font-size: 18px;
   }
 }
 
@@ -365,6 +370,10 @@ header {
   font-family: $georgia;
   font-size: 19px;
   line-height: 1.63;
+
+  a[href^="mailto:"] {
+    word-wrap: break-word;
+  }
 }
 
 .image {
@@ -478,6 +487,10 @@ header {
 
   .article-credits {
     letter-spacing: 0.45px;
+
+    a {
+      color: rgba(0, 0, 0, 0.7);
+    }
   }  
 
   .article-credits::before {
