@@ -7,7 +7,7 @@ d <-read.csv("Candidates Performance1.csv")
 data <- as.data.frame(d)
 
 p <- ggplot(data,
-       aes(y = data$Columbia.Total.., 
+       aes(y = data$Columbia.Total..,
            axis1 = data$Political.Party,
            axis2 = data$Candidate.Name)) 
 
