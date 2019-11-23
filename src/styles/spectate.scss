@@ -147,7 +147,7 @@ header {
   header .headline {
     font-size: 37px;
     margin-bottom: 7px;
-    max-width: calc(100% - 20px) !important;
+    max-width: calc(100vw - 20px) !important;
   }
 
   header .deck {

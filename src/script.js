@@ -24,3 +24,4 @@ const svg64 = window.btoa(svg);
 console.log(`url('data:image/svg+xml;base64,${svg64}')`);
 
 */
+
