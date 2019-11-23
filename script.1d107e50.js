@@ -8,4 +8,4 @@ module.exports={USE_EYE_NAV:!1,USE_COVER_HED:!1,DOC_URL:"https://docs.google.com
 },{}],"mpVp":[function(require,module,exports) {
 "use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.hamburgerTrigger=i;var e=a(require("enter-view")),r=a(require("text-balancer")),t=require("../config.yml");function a(e){return e&&e.__esModule?e:{default:e}}var n=document.getElementById("navbar");function i(){n.classList.toggle("show-nav-links")}r.default.balanceText(".headline, .deck, .image-overlay .image-caption");
 },{"enter-view":"nKD1","text-balancer":"uGUE","../config.yml":"bpyv"}]},{},["mpVp"], "script")
-//# sourceMappingURL=script.1d107e50.js.map
+//# sourceMappingURL=https://spectator-static-assets.s3.amazonaws.com/political-candidates/script.1d107e50.js.map
